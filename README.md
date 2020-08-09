@@ -20,11 +20,12 @@ HaxorKit, is a tool for pentesters, which is quite easy to use, and aims for edu
 And More*
 
 ## Screenshoot
-
+![alt text](https://github.com/aceptriana/aplikasi-haxor/blob/master/1.jpg)
 ## Download
 
-[Play Store](https://play.google.com/store/apps/details?id=com.haxorkit)
-[Github]()
+[Via Play Store](https://play.google.com/store/apps/details?id=com.haxorkit)
+
+[Via Github](https://github.com/aceptriana/aplikasi-haxor/blob/master/haxor.apk)
 
 
 
